@@ -78,7 +78,7 @@ export const projects = [
     learning:
       "Winova strengthened my understanding of HTML structure, CSS layouts, JavaScript events, DOM manipulation, array methods and browser storage. It also helped me understand how separate pages work together as one user experience.",
     liveUrl: "https://winova.philipaipoh.com.ng/",
-    documentationUrl: "",
+    documentationUrl: "https://winova.docny.app/winova/overview-1",
     githubUrl: "https://github.com/Babbler01/Winova",
     next: "mainstreet",
     previous: null,
@@ -237,7 +237,7 @@ export const projects = [
     learning:
       "Waini strengthened my understanding of React components, state-driven interfaces and third-party API integration. It also introduced practical considerations around payment flows, AI features and application security.",
     liveUrl: "https://waini.philipaipoh.com.ng/",
-    documentationUrl: "",
+    documentationUrl: "https://winova.docny.app/waini/project-overview",
     githubUrl: "https://github.com/Babbler01/waini",
     next: null,
     previous: "mainstreet",

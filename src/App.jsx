@@ -277,7 +277,7 @@ function Home() {
         <p>
           Interested in my work or want to discuss a project? Let's connect.
         </p>
-        <a className="button button-primary" href="mailto:YOUR_EMAIL@example.com">
+        <a className="button button-primary" href="mailto:aipohphil@gmail.com">
           Get in touch <span>↗</span>
         </a>
       </section>
