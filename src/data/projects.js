@@ -90,7 +90,7 @@ export const projects = [
     name: "MainStreet",
     subtitle: "Barbershop Website",
     category: "BUSINESS WEBSITE / BOOTSTRAP",
-    status: "In progress",
+    status: "Completed",
     image: "/images/projects/mainstreet.png",
     year: "2026",
     role: "Frontend Developer",
